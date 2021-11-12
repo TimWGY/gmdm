@@ -1,2 +1,1 @@
-# gim
- A Grammar of Image Data Mining
+# A Grammar of Map Data Mining
