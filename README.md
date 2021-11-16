@@ -18,7 +18,7 @@ References:
 
 [★ Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation](https://arxiv.org/abs/2101.02144) 
 
-<img src="./README.assets/CDLMM_1.png" alt="CDLMM_1" width="500" />
+<img src="./README.assets/CDLMM_1.png" alt="CDLMM_1" width="400" />
 
 [★ Generic Semantic Segmentation of Historical Maps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-35zi-Zb0AhUQVt8KHd7GCRwQFnoECAIQAQ&url=http%3A%2F%2Fceur-ws.org%2FVol-2989%2Flong_paper27.pdf&usg=AOvVaw0_nV8Pw1IHmcvZJotCggyb) - [[**Data and Code**]](https://github.com/RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps)
 
@@ -40,7 +40,9 @@ References:
 
 https://dhistory.hypotheses.org/346 (in German)
 
-![hypotheses_dhistory](./README.assets/hypotheses_dhistory.png)
+<img src="./README.assets/hypotheses_dhistory.png" alt="hypotheses_dhistory" width="500" />
+
+
 
 https://github.com/MinesParis-MorphoMath (https://smil.cmm.minesparis.psl.eu/doc/p600.html)
 
