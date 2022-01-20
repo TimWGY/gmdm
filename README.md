@@ -1,5 +1,11 @@
 # A Grammar of Map Data Mining
 
+Update:
+
+[★ Polygonal Building Segmentation by Frame Field Learning](https://arxiv.org/abs/2004.14875) [[**Data and Code**]](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learnin)
+
+<img src="./README.assets/FFL_polygonize.png" alt="FFL_polygonize.png" width="500" />
+
 References: 
 
 [★ Automated Extraction of Human Settlement Patterns From Historical Topographic Map Series Using Weakly Supervised Convolutional Neural Networks](https://www.semanticscholar.org/paper/Automated-Extraction-of-Human-Settlement-Patterns-Uhl-Leyk/7f86369344f3cbc6d054b7df0e4fd9ba2882d29e)
